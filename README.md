@@ -5,7 +5,7 @@ Team members: Jason Woo(jmw299@pitt.edu), Benjamin Tenorio(bet50@pitt.edu), Davi
 
 Metric 1 (Jason): Median age of death
 Dataset 1 (Jason): https://data.wprdc.org/dataset/median-age-death/resource/c2e1500a-a12a-4e91-be94-76c6a892b7e2
-Metric 2 (David): School enrollment(for hangover beneficial)
+Metric 2 (David): School enrollment
 Dataset 2(David):  
 https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment/resource/643511e3-e99a-4e2a-94a4-033ddb944e94  
 Metric 3 (Ben): COVID-19 counts
