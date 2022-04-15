@@ -1,6 +1,6 @@
 # BigIdeasFinal
 Final Project for Big Ideas
-Team name: Hammerheads
+Team name: Hammerheads(Canvas Group 8)
 Team members: Jason Woo(jmw299@pitt.edu), Benjamin Tenorio(bet50@pitt.edu), David Teklea(dgt12@pitt.edu)
 
 Metric 1 (Jason): Crime and population
